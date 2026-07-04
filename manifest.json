@@ -1,6 +1,18 @@
 {
-    "version": "",
-    "thumbnail": "",
-    "id": "",
-    "name": ""
+    "version": "1.0.0",
+    "thumbnail": "store/Thumbnail.png",
+    "id": "dev_core447_Template",
+    "name": "Template",
+    "descriptions": {
+        "en_US": "Displays the counter for the selected location"
+    },
+    "short-descriptions": {
+        "en_US": "Show the counter"
+    },
+    "tags": [],
+    "minimum-app-version": "1.0.0",
+    "app-version": "1.5.0-beta",
+
+    "description": "Displays the counter for the selected location",
+    "short-description": "Show the counter"
 }
